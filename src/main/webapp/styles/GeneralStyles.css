@@ -1,0 +1,24 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.form-container {
+    flex: 1;
+    max-width: 300px;
+    border-color: crimson;
+}
+
+.graph-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    border-color: crimson;
+}
+.table-container {
+    border-color: crimson;
+}
